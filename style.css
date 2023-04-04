@@ -4,6 +4,10 @@
     font-family: sans-serif;
 }
 
+body {
+    background-color:#075861;
+}
+
 .hero {
     background-image: url(img/background.png);
     width: 100%;
